@@ -42,7 +42,7 @@
 | Category | Details |
 |---|---|
 | **Language** | C (C99 standard) |
-| **OS / Platform** | Linux (Ubuntu / Debian / Fedora / Arch) |
+| **OS / Platform** | Linux (Ubuntu) |
 | **API Standard** | POSIX — Portable Operating System Interface |
 | **Build Tool** | GNU Make (`Makefile`) |
 | **Compiler** | GCC — GNU Compiler Collection |

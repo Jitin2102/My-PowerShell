@@ -41,7 +41,7 @@
 
 | Category | Details |
 |---|---|
-| **Language** | C (C99 standard) |
+| **Language** | C  |
 | **OS / Platform** | Linux (Ubuntu) |
 | **API Standard** | POSIX — Portable Operating System Interface |
 | **Build Tool** | GNU Make (`Makefile`) |

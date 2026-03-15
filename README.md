@@ -77,7 +77,7 @@ myshell/
 
 ```bash
 # Clone and build
-git clone https://github.com/yourusername/myshell.git
+git clone https://github.com/Jitin2102/myshell.git
 cd myshell
 make
 
